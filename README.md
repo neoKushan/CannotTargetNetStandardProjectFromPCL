@@ -24,7 +24,6 @@ You can clone this repoistory to look at an example solution.
 1. Create a new, empty solution containing a PCL targeting the profile of your choice
 
 ![](https://raw.githubusercontent.com/neoKushan/CannotTargetNetStandardProjectFromPCL/master/Images/Step1a.png)
-
 ![](https://raw.githubusercontent.com/neoKushan/CannotTargetNetStandardProjectFromPCL/master/Images/Step1b.png)
 
 2. Retarget the PCL to to use the Netstandard
@@ -38,13 +37,11 @@ You can clone this repoistory to look at an example solution.
 4. Ensure Both projects are targeting the same Netstandard version (Or that the PortableClassLibrary is targeting a Netstandard higher than the Netstandard project)
 
 ![](https://raw.githubusercontent.com/neoKushan/CannotTargetNetStandardProjectFromPCL/master/Images/Step4a.png)
-
 ![](https://raw.githubusercontent.com/neoKushan/CannotTargetNetStandardProjectFromPCL/master/Images/Step4b.png)
 
 5. Try to reference the Netstandard project from the PCL
 
 ![](https://raw.githubusercontent.com/neoKushan/CannotTargetNetStandardProjectFromPCL/master/Images/Step5a.png)
-
 ![](https://raw.githubusercontent.com/neoKushan/CannotTargetNetStandardProjectFromPCL/master/Images/error.png)
 
 
