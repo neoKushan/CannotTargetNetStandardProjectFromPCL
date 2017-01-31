@@ -29,7 +29,7 @@ You can clone this repoistory to look at an example solution.
 
 2. Retarget the PCL to to use the Netstandard
 
- ![](https://raw.githubusercontent.com/neoKushan/CannotTargetNetStandardProjectFromPCL/master/Images/tep2.png)
+ ![](https://raw.githubusercontent.com/neoKushan/CannotTargetNetStandardProjectFromPCL/master/Images/Step2.png)
 
 3. Add a new Netstandard library to the solution
 
